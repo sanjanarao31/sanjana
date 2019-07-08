@@ -1,3 +1,4 @@
+//SOME USES OF MATH FUNCTION IN GOLANG
 package main
 import ("fmt"
   "math"
